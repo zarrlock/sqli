@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16124398-1b2e-403f-bee1-553c744d053a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1oCwiSKJ3qKxlrlznrT5BkCofOk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dump" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\sqli" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\sqli\dump" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16124398-1b2e-403f-bee1-553c744d053a" name="Default Changelist" comment="" />
+      <created>1612804006339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612804006339</updated>
+      <workItem from="1612804007382" duration="19729000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="753" y="264" key="#com.intellij.ide.util.MemberChooser" timestamp="1612805012842">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="753" y="264" key="#com.intellij.ide.util.MemberChooser/0.30.1920.1050/-1920.30.1920.1050@0.30.1920.1050" timestamp="1612805012842" />
+    <state x="794" y="478" key="NewPhpFileDialog" timestamp="1612811296336">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="794" y="478" key="NewPhpFileDialog/0.30.1920.1050/-1920.30.1920.1050@0.30.1920.1050" timestamp="1612811296336" />
+    <state x="-1305" y="264" key="run.anything.popup" timestamp="1612807735364">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="-1305" y="264" key="run.anything.popup/0.30.1920.1050/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1612807735364" />
+    <state x="-1297" y="269" width="672" height="678" key="search.everywhere.popup" timestamp="1612807552540">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state x="-1297" y="269" width="672" height="678" key="search.everywhere.popup/0.30.1920.1050/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1612807552540" />
+  </component>
+</project>

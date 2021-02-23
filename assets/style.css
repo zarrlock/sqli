@@ -1,0 +1,129 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+}
+
+html, body, header {
+    
+}
+
+
+header {
+    height: 300px;
+    background-image: url('controller.jpg');
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+}
+
+header h1 {
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+header section {
+    position: absolute;
+    bottom: 20px;
+    width: 50%;
+    left: 25%;
+}
+
+form {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 1.6em;
+    white-space: nowrap;
+}
+
+form input[type="search"] {
+    width: 80%;
+    padding: 12px;
+    border-radius: 1.6em;
+    background: transparent;
+}
+
+form input[type="submit"] {
+    padding: 1px;
+    width: auto;
+    background-color: #c31f31;
+    border-radius: 1.6em;
+    font-weight: 500;
+    color: black;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: #c31f31;
+    color: white;
+    width: 100%;
+    padding: 10px 50px;
+    transform: translateY(100%);
+    transition: transform .5s ease-in-out;
+}
+
+footer.show {
+    bottom: 0;
+    transform: translateY(0);
+}
+
+main {
+    width: 50%;
+    min-width: 500px;
+    margin: auto;
+    padding: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto;
+}
+
+th, td {
+    padding: 5px 10px;
+    text-align: right;
+    border-collapse: collapse;
+}
+
+th:first-of-type, td:first-of-type {
+    text-align: left;
+}
+
+td {
+    border-bottom: 1px solid lightgray;
+}
+
+span.error {
+    color: #c31f31;
+}
+
+span.smiley {
+    display: block;
+    font-size: 42px;
+}
+
+span.count, span.warning, span.error {
+    padding: 10px;
+    font-size: 24px;
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+button.toggle-qry {
+    opacity: .5;
+    border-radius: 1.6em;
+    background-color: #c31f31;
+    padding: 5px 10px;
+    color: white;
+    position: fixed;
+    bottom: 50px;
+    left: 20px;
+}
