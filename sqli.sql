@@ -11,7 +11,7 @@ SELECT ?, ?, ? FROM ? WHERE ? LIKE '% ? %';
 SELECT ?, ?, ? FROM ? WHERE ? LIKE '%'; -- ? %';
 #query: '; --
 
--- Le serveur mySQL devrait mettre 3 secondes 
+-- Le serveur mySQL devrait mettre 3 secondes
 SELECT ?, ?, ? FROM ? WHERE ? LIKE '%war%' AND 0 = SLEEP(3); -- ? %';
 #query: war%' AND 0=SLEEP(3); --
 
