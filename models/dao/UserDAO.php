@@ -59,7 +59,7 @@ class UserDAO
             return false;
         }
 
-        $product = $this->create(['pk' => 0, 'name' => $data['name'], 'price' => $data['password']]);
+        $product = $this->create(['pk' => 0, 'name' => $data['name'], 'password' => $data['password']]);
 
         if ($product) {
             try {

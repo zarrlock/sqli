@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16124398-1b2e-403f-bee1-553c744d053a" name="Default Changelist" comment="initialasation" />
+    <list default="true" id="16124398-1b2e-403f-bee1-553c744d053a" name="Default Changelist" comment="initialasation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/dao/UserDAO.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/dao/UserDAO.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +33,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -50,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612804006339</updated>
       <workItem from="1612804007382" duration="19729000" />
-      <workItem from="1614621083139" duration="6418000" />
+      <workItem from="1614621083139" duration="6970000" />
     </task>
     <task id="LOCAL-00001" summary="initialasation">
       <created>1614628161011</created>
@@ -59,7 +63,35 @@
       <option name="project" value="LOCAL" />
       <updated>1614628161011</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initialasation">
+      <created>1614628430512</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614628430512</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initialasation">
+      <created>1614628446609</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614628446609</updated>
+    </task>
+    <task id="LOCAL-00004" summary="initialasation">
+      <created>1614628502828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614628502828</updated>
+    </task>
+    <task id="LOCAL-00005" summary="initialasation">
+      <created>1614628527820</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614628527820</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
