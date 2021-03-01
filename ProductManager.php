@@ -26,7 +26,3 @@ if(isset($_POST) && isset($_POST['deleteproduct'])) {
 }
 
 $productController->show(2);
-/*
-
-
-*/
